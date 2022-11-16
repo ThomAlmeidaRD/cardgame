@@ -1,0 +1,37 @@
+.card-slots {
+    background: #00000069;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    /* padding: 105px; */
+    flex-wrap: wrap;
+}
+
+.card-slots div {
+    width: 100%;
+    height: 355px;
+    margin: 0px;
+    height: 27%;
+    padding: 79px;
+    margin: 5px;
+}
+
+.card-slots ul {
+    list-style: none !important;
+    padding-left: 0px;
+    height: 80%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+li.card-slot {
+    width: 21%;
+    background: #eeeeee2e;
+    padding: 10px;
+    height: 100%;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #eee;
+}

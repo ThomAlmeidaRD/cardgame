@@ -1,0 +1,32 @@
+#background{
+    background-image: url('https://cdn.dribbble.com/users/642793/screenshots/17251963/media/8312e2cbe18996142af2261e447e717b.png?compress=1&resize=1000x750&vertical=top');
+    background-position: center;
+    background-size: cover;
+}
+
+
+#card-1{
+    background-image: url('https://i.pinimg.com/564x/c2/a1/56/c2a1562d6d2e2c4a00b7a1b8c73a77fb.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#card-2{
+    background-image: url('https://i.pinimg.com/564x/9d/f9/0f/9df90f145aec0b53f9953784c2a61058.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+#card-3{
+    background-image: url('https://i.pinimg.com/564x/09/13/04/0913041cebc8471f71e387fbd0db0f90.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#card-4{
+    background-image: url('https://i.pinimg.com/564x/b5/7b/f1/b57bf183f2f5241c832f16c3cba859c5.jpg');
+    background-position: center;
+    background-size: cover;
+}

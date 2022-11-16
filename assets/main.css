@@ -1,0 +1,14 @@
+@import url('tridiv.css');
+@import url('backgrounds.css');
+@import url('card-slots.css');
+@import url('card-hand.css');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #000000f0;
+}
